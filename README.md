@@ -20,6 +20,6 @@ Details of the analysis is found in the BAirbnbanalysis.ipynb
 
 ## Acknowledgments
 
-* References: https://github.com/DavidG16/DSND-Term2-Blog-Post/blob/master/AirbnbBostonAnalysis.ipynb, https://github.com/susmithagudapati/Boston-Airbnb-Data-Analysis/blob/master/Boston%20Airbnb%20Data%20Analysis.ipynb
+* References: https://github.com/DavidG16/DSND-Term2-Blog-Post/blob/master/AirbnbBostonAnalysis.ipynb https://github.com/susmithagudapati/Boston-Airbnb-Data-Analysis/blob/master/Boston%20Airbnb%20Data%20Analysis.ipynb
 
 

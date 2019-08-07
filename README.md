@@ -16,6 +16,7 @@ It contains three csv files,
 1. calendar.csv - listing's calendar information
 2. listings.csv - contains details about listings like location, price, no.of reviews or so 
 3. reviews.csv - reviews provided for each listing
+
 Details of the analysis is found in the BAirbnbanalysis.ipynb
 
 ## Acknowledgments

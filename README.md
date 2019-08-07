@@ -1,5 +1,5 @@
 # Boston AirBnb Data Analysis
-This project is part of Udacity Data Science Nanodegree. Airbnb has gained lot popularity recently. I chose boston airbnb data for my analysis. Focus of this project is to analyze the data to answer the following questions:
+This project is part of Udacity Data Science Nanodegree. Airbnb has gained lot popularity recently, I chose boston airbnb dataset for my analysis. Focus of this project is to analyze the data to answer the following questions:
 1. What are the zipcodes with higher number of listings?
 2. Average list pricing and review rating in these zipcodes? 
 3. Are no. of reviews and listing price correlated, what features affect review scores?

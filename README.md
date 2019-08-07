@@ -1,88 +1,25 @@
-# Project Title
+# Boston AirBnb Data Analysis
+This project is part of Udacity Data Science Nanodegree. Airbnb has gained lot popularity recently. I chose boston airbnb data for my analysis. Focus of this project is to analyze the data to answer the following questions:
+1. What are the zipcodes with higher number of listings?
+2. Average list pricing and review rating in these zipcodes? 
+3. Are no. of reviews and listing price correlated, what features affect review scores?
+4. What features are correlated to price?
 
-One Paragraph of project description goes here
+### Installation
 
-## Getting Started
+Jupyter notebook, Python version of Anaconda is required for running this project on local machine. Packages imported were pamdas, numpy, matplot, and seaborn
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Files and Data
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Data for this analysis was obtained from Kaggle - https://www.kaggle.com/airbnb/boston
+It contains three csv files, 
+1.calendar.csv - listing's calendar information
+2.listings.csv - contains details about listings like location, price, no.of reviews or so 
+3.reviews.csv - reviews provided for each listing
+Details of the analysis is found in the BAirbnbanalysis.ipynb
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* References: https://github.com/DavidG16/DSND-Term2-Blog-Post/blob/master/AirbnbBostonAnalysis.ipynb, https://github.com/susmithagudapati/Boston-Airbnb-Data-Analysis/blob/master/Boston%20Airbnb%20Data%20Analysis.ipynb
+
 

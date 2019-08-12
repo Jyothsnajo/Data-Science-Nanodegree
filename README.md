@@ -19,6 +19,10 @@ It contains three csv files,
 
 Details of the analysis is found in the BAirbnbanalysis.ipynb
 
+## Link to Article on Medium
+The results are published as a post on medium.
+https://medium.com/@joshsgm/a-dive-into-boston-airbnb-data-c9af56bccc64
+
 ## Acknowledgments
 
 * References: https://github.com/DavidG16/DSND-Term2-Blog-Post/blob/master/AirbnbBostonAnalysis.ipynb https://github.com/susmithagudapati/Boston-Airbnb-Data-Analysis/blob/master/Boston%20Airbnb%20Data%20Analysis.ipynb
